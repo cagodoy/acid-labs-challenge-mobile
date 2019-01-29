@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "acid-labs-challenge-mobile",
+    "slug": "acid-labs-challenge-mobile",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": [
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Acid Labs Challenge Mobile App by Camilo Acuña",
+    "githubUrl": "https://github.com/cagodoy/acid-labs-challenge-mobile"
   }
 }
