@@ -1,0 +1,43 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "eventemitter2": "^5.0.1",
+    "expo": "^31.0.2",
+    "expo-face-detector": "^2.0.0",
+    "expo-localization": "^2.0.0",
+    "expokit": "31.0.2",
+    "i18n-js": "^3.1.0",
+    "immutable": "^4.0.0-rc.12",
+    "isomorphic-unfetch": "^3.0.0",
+    "lodash": "^4.17.11",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native-actioncable": "^0.0.3",
+    "react-native-admob": "^2.0.0-beta.5",
+    "react-native-auto-height-image": "^1.0.5",
+    "react-native-instagram-login": "^1.0.9",
+    "react-native-instagram-story-share": "Jobeso/react-native-instagram-story-share#a6969025c0a2b0ad437f4f3f987abe08f6bf15e8",
+    "react-native-textinput-effects": "^0.4.2",
+    "react-navigation": "^3.0.9",
+    "react-navigation-redux-helpers": "^2.0.9",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.7",
+    "redux-logger": "^3.0.6",
+    "redux-observable": "^1.0.0",
+    "rxjs": "^6.3.3",
+    "universal-rxjs-ajax": "^2.0.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0",
+    "react-devtools": "^3.6.0"
+  },
+  "private": true
+}
