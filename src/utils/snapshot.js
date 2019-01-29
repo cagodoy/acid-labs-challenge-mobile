@@ -28,7 +28,7 @@ function fromJSSnapshot (state) {
   return obj
 }
 
-const STATE_STORAGE_KEY = 'WiseGrowthAppAppState:0.0.2'
+const STATE_STORAGE_KEY = 'AcidLabsChallenge:0.0.1'
 
 export async function resetSnapshot () {
   const state = await rehydrate()
